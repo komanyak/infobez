@@ -350,5 +350,4 @@ def test_kuznechik():
 
 
 if __name__ == "__main__":
-    print("Запуск теста Kuznechik")
     test_kuznechik()
